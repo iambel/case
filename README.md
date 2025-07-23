@@ -6,4 +6,4 @@ Códigos disponíveis em repositório com o objetivo de facilitar o entendimento
 
 </div>
 
-## Resolução documentada ([Visualizar]())
+## Resolução documentada ([Visualizar](./praticas-programacao/document/))
