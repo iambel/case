@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  border: #cecece solid 2px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+
+  min-height: 100vh;
+}
+
+button {
+  padding: 1em;
+}
+
+.dark-mode {
+  background-color: #333;
+  color: #f4f4f4;
+}
+
+footer {
+  text-align: center;
+  border: #cecece solid 2px;
+  padding: 1em;
+}
+footer a {
+  text-decoration: none;
+}
